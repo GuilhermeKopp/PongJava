@@ -1,6 +1,6 @@
 <h1 align="center"> Jogo Pong com JAVA: </h1>
 
-  <h2 align="center"> Início: </h2>
+  <h2 align="center"> Início Pong: </h2>
    <a href="#">
     <img align="center" width="700" src="Pong.PNG" />
   </a>
